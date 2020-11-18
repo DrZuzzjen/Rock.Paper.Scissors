@@ -1,1 +1,1 @@
-"# hack1" 
+#Very simple Rock.Paper.Scissors on Python
